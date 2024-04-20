@@ -1,0 +1,73 @@
+<footer id="footer" class="footer color-bg">
+	  <div class="links-social inner-top-sm" style="background-color:#36cd34; height:300px;">
+        <div class="container">
+            <div class="row">
+            	<div class="col-xs-12 col-sm-6 col-md-4">
+            		 
+<div class="contact-info">
+    <div class="footer-logo">
+        <div class="logo">
+            <a href="index.php">
+                
+<h3 style="color:#ff7878;"><img src="img/logo.jpg" height="150" width="300" /></h3>
+            </a>
+        </div>
+    
+    </div>
+
+     <div class="module-body m-t-20">
+        <p class="about-us"> </p>
+    
+        
+    </div>
+
+</div>           	</div>
+
+            	<div class="col-xs-12 col-sm-6 col-md-4">
+            		
+<div class="contact-timing">
+	
+</div>            	</div>
+
+            	<div class="col-xs-12 col-sm-6 col-md-4">
+         
+
+	<div class="module-heading">
+		<h4 class="module-title"><font face = "arial" size = "6" color="black"><b>Contact Details</b></font></h4>
+	</div>
+
+	<div class="module-body outer-top-xs">
+        <ul class="toggle-footer" style="">
+            <li class="media">
+                <div class="pull-left">
+                     <span class="icon fa-stack fa-lg">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fa fa-map-marker fa-stack-1x fa-inverse"></i>
+                    </span>
+                </div>
+                <div class="media-body">
+                    <p><font face = "Lucida Handwriting" size = "4" color="black"><b>No.2/22, K.R.Building, Sathy Main Road, Kovilpalayam, Coimbatore-641107.</b></font></p>
+                </div>
+            </li>
+
+              <li class="media">
+                <div class="pull-left">
+                     <span class="icon fa-stack fa-lg">
+                      <i class="fa fa-circle fa-stack-2x"></i>
+                      <i class="fa fa-mobile fa-stack-1x fa-inverse"></i>
+                    </span>
+                </div>
+                <div class="media-body">
+                    <p><font face = "Lucida Handwriting" size = "4" color="black"><b>95970 73015</b></font></p>
+                </div>
+            </li>
+
+              
+            </ul>
+    </div>
+</div>           	</div>
+            </div>
+        </div>
+    </div>
+
+    
